@@ -1,0 +1,1 @@
+# HKEY_CLASSES_ROOT\Chromium\.exe\shell\command\delegateexecute
