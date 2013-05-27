@@ -1,1 +1,1 @@
-# HKEY_CLASSES_ROOT\Chromium\.exe\shell\command\delegateexecute
+﻿# HKEY_CLASSES_ROOT\Chromium\.exe\shell\command\delegateexecute

@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>SRWareIron</id>
     <title>SRWareIron</title>
-    <version>26.0.1450.0</version>
+    <version>27.0.1500.0</version>
     <authors>SRWare</authors>
     <owners>gbiamby</owners>
     <summary>SRWareIron</summary>
